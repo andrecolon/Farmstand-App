@@ -1,0 +1,6 @@
+{
+  "name": "Tehachapi Farm Stands",
+  "description": "A fully functional interactive mobile companion guide for locating, exploring, bookmarking, and coordinating farm-fresh local goods, sourdough bakery, and handmade treats in Tehachapi.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
